@@ -1,5 +1,14 @@
 import "./scss/main.scss"
 import arrow from "./assets/arrow.svg"
+import put from "./assets/put.svg"
+import vector from "./assets/vector.svg"
+import closebtn from "./assets/closebtn.svg"
+import formlogo from "./assets/formlogo.png"
+import logo from "./assets/logo.png"
+import pdf from "./assets/pdf.png"
+import telegramm from "./assets/telegramm.png"
+import viber from "./assets/viber.png"
+import whatsapp from "./assets/whatsapp.png"
 
 const call = document.getElementsByClassName("call")[0];
 const number = document.getElementsByClassName("number")[0];
