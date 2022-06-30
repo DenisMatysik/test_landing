@@ -1,4 +1,5 @@
 import "./scss/main.scss"
+import arrow from "./assets/arrow.svg"
 
 const call = document.getElementsByClassName("call")[0];
 const number = document.getElementsByClassName("number")[0];
