@@ -63,7 +63,6 @@ footer{
     justify-content: space-between;
     border-top: 1px solid rgba(28, 28, 28, 0.07);
 
-
 .elem1{
     max-width: 13%;
     font-weight: 400;
@@ -105,12 +104,13 @@ footer{
     position: relative;
     .logo{
         position: absolute;
-        left: 30%;
+        left: 25%;
         top: 20%;
     }
 }
 
 .elem4{
+    margin-right: 60px;
     &__text{
         font-weight: 400;
         font-size: 12px;
